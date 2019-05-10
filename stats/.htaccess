@@ -1,0 +1,7 @@
+AuthName "crm.zopsoft.com statistics"
+AuthType Basic
+AuthUserFile /home/crm/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>

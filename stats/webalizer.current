@@ -1,0 +1,711 @@
+# Webalizer V2.23-08 Incremental Data - 02/23/2019 06:03:03
+2019 2 23 6 3 3
+15849 14957 11 227 46 6 8162145322 1772 24 0
+2 10 2103 3 23
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 1 4794 1 1 1
+0 0 0 0 0 0
+2547 2466 143606397 1 486 2
+0 0 0 0 0 0
+3242 3094 198573964 1 299 3
+3149 2964 179649273 1 396 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+6278 5836 364250240 1 419 3
+0 0 0 0 0 0
+104 98 5534199 1 53 2
+26 24 807474 1 16 1
+298 278 17207118 3 34 3
+3 3 7241372299 2 0 0
+1 1 4794 1 1 1
+121 117 6910236 1 39 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+20 19 983024 2 19 3
+59 56 3241510 2 9 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+109 94 6041508 59
+1074 995 50538670 287
+1281 1233 76332258 176
+1393 1241 79854746 153
+131 114 7053015 47
+198 187 10893574 23
+4877 4656 286599503 438
+3720 3529 223576448 302
+2571 2439 150997571 229
+491 465 28880936 57
+0 0 0 0
+0 0 0 0
+0 0 0 0
+3 3 7241372299 0
+1 1 4794 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+14957
+0
+0
+0
+0
+0
+18
+0
+2
+15
+76
+172
+0
+41
+0
+0
+0
+0
+547
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+0
+0
+0
+0
+0
+# -urls- 
+/mad/themes/pmahomme/img/logo_right.png
+1 3 0 8612 0 0
+/mad/js/db_operations.js
+0 1 0 6359 0 0
+/mad/js/vendor/jquery/jquery.mousewheel.js
+0 3 0 16534 0 0
+/mad/version_check.php
+0 5 0 320 0 0
+/mad/themes/pmahomme/img/b_print.png
+1 3 0 1278 0 0
+/mad/tbl_sql.php
+0 1 0 4600 0 0
+/mad/js/keyhandler.js
+0 3 0 6666 0 0
+/mad/themes/pmahomme/img/b_triggers.png
+1 3 0 892 0 0
+/mad/db_operations.php
+0 1 0 5380 0 0
+/mad/themes/pmahomme/img/b_minus.png
+1 3 0 246 0 0
+/mad/js/makegrid.js
+0 3 0 195330 0 0
+/mad/js/db_structure.js
+0 3 0 31606 0 0
+/backup.zip
+0 2 0 6172018138 0 0
+/mad/js/vendor/jquery/jquery.min.js
+0 3 0 173854 0 0
+/mad/themes/pmahomme/img/b_tblexport.png
+1 3 3616444575275691569 1028 0 0
+/admin/Customer/customerService/
+0 1 8391173023950660453 10 0 0
+/mad/themes/pmahomme/img/s_loggoff.png
+1 3 40137312 1252 0 0
+/assets/plugins/monthly/monthly.css
+0 348 0 3436341 0 0
+/mad/themes/pmahomme/img/b_plugin.png
+1 3 0 1024 0 0
+/mad/js/vendor/codemirror/lib/codemirror.js
+0 3 0 746468 0 0
+/mad/themes/pmahomme/img/b_plus.png
+1 3 0 286 0 0
+/mad/themes/pmahomme/img/s_vars.png
+1 3 0 1046 0 0
+/admin/login
+0 10 0 48907 1 1
+/mad/themes/pmahomme/img/normalize.png
+1 2 0 1010 0 0
+/mad/themes/pmahomme/img/b_home.png
+1 3 0 1468 0 0
+/mad/sql.php
+0 76 0 452697 0 1
+/mad/themes/pmahomme/img/b_routines.png
+1 3 0 612 0 0
+/assets/pe-icon-7-stroke/css/pe-icon-7-stroke.css
+0 352 0 3419442 0 0
+/assets/image/bg_tiles.2.jpg
+1 14 0 535890 0 0
+/mad/themes/pmahomme/img/b_sql.png
+1 3 0 1360 0 0
+/assets/plugins/emojionearea/emojionearea.min.css
+0 348 0 7054510 0 0
+/mad/js/indexes.js
+0 3 0 54484 0 0
+/mad/themes/pmahomme/img/s_db.png
+1 3 0 656 0 0
+/assets/dist/img/word.png
+1 168 0 241315 0 0
+/assets/plugins/counterup/waypoints.js
+0 326 0 2616575 0 0
+/mad/themes/pmahomme/img/s_theme.png
+1 3 0 1544 0 0
+/mad/themes/pmahomme/img/b_browse.png
+1 3 0 972 0 0
+/mad/themes/pmahomme/img/b_edit.png
+1 3 0 754 0 0
+/Login
+0 26 0 125421 1 1
+/mad/js/error_report.js
+0 3 0 20196 0 0
+/assets/plugins/jquery-ui-1.12.1/jquery-ui.min.js
+0 348 0 88035288 0 0
+/mad/themes/pmahomme/css/printview.css
+0 3 0 5492 0 0
+/mad/js/vendor/codemirror/mode/sql/sql.js
+0 3 0 90646 0 0
+/mad/themes/pmahomme/img/col_drop.png
+1 3 0 222 0 0
+/mad/themes/pmahomme/img/arrow_ltr.png
+1 3 0 202 0 0
+/mad/themes/pmahomme/img/s_unlink.png
+1 1 0 589 0 0
+/admin/customer/showCustomerServices
+0 37 0 8355 0 0
+/mad/themes/pmahomme/img/ajax_clock_small.gif
+1 3 0 3620 0 0
+/assets/themify-icons/themify-icons.css
+0 348 0 6091238 0 0
+/mad/themes/pmahomme/img/b_engine.png
+1 3 0 796 0 0
+/admin/customer/addNewCustomer
+0 55 0 2709519 0 0
+/mad/js/cross_framing_protection.js
+0 3 0 942 0 0
+/mad/tbl_structure.php
+0 29 0 196857 0 0
+/mad/themes/pmahomme/img/s_link.png
+1 3 0 560 0 0
+/mad/themes/pmahomme/img/b_help.png
+1 3 0 1410 0 0
+/admin/customer/newCustomerValidation
+0 11 18446744073709551615 543909 0 0
+/Registration/register_valid
+0 5 0 29937 0 0
+/assets/plugins/table-export/tableExport.js
+0 329 0 3739200 0 0
+/mad/themes/pmahomme/img/b_search.png
+1 3 0 1076 0 0
+/mad/js/vendor/tracekit.js
+0 3 0 90778 0 0
+/mad/js/shortcuts_handler.js
+0 3 0 6528 0 0
+/mad/js/whitelist.php
+0 9 0 171 0 0
+/assets/font-awesome/css/font-awesome.min.css
+0 348 7163384644223839794 10757000 0 0
+/mad/js/gis_data_editor.js
+0 3 2 29442 0 0
+/assets/dist/img/zs_logo.png
+1 326 0 2745600 0 0
+/mad/themes/pmahomme/img/b_export.png
+1 3 0 1028 0 0
+/admin/Login
+0 5 0 24972 0 0
+/mad/js/tbl_structure.js
+0 2 0 39668 0 0
+/mad/themes/pmahomme/img/b_relations.png
+1 3 0 280 0 0
+/mad/js/rte.js
+0 3 0 95356 0 0
+/mad/js/page_settings.js
+0 3 1129013419097328896 3498 0 0
+/assets/plugins/table-export/jspdf.js
+0 328 0 2225889 0 0
+/mad/js/menu-resizer.js
+0 3 0 16636 0 0
+/mad/themes/pmahomme/img/b_index.png
+1 2 0 1286 0 0
+/assets/font-awesome/fonts/fontawesome-webfont.ttf
+0 7 0 619511 0 0
+/assets/plugins/lobipanel/lobipanel.min.js
+0 331 0 8858190 0 0
+/mad/js/vendor/jquery/jquery.uitablefilter.js
+0 3 0 6958 0 0
+/mad/js/vendor/jquery/jquery.debounce-1.0.5.js
+0 3 0 2338 0 0
+/admin/Services/serviceValidation
+0 13 0 854457 0 0
+/mad/js/vendor/js.cookie.js
+0 3 0 7772 0 0
+/admin/Login/dash_open
+0 3 0 14913 0 0
+/mad/js/vendor/jquery/jquery-ui-timepicker-addon.js
+0 3 0 156950 0 0
+/mad/js/doclinks.js
+0 3 0 41286 0 0
+/mad/ajax.php
+0 60 0 83575 0 0
+/admin/Customer/customerService/13
+0 15 0 804012 0 0
+/assets/dist/js/custom.js
+0 327 0 6642576 0 0
+/mad/themes/pmahomme/img/b_unique.png
+1 2 0 1166 0 0
+/mad/js/vendor/jquery/jquery-ui.min.js
+0 3 0 507362 0 0
+/mad/
+0 166 0 409526 1 2
+/mad/themes/dot.gif
+1 3 0 86 0 0
+/admin/Services/index
+0 2 0 162618 0 0
+/mad/themes/pmahomme/img/b_view_add.png
+1 3 87312416873459254 1356 0 0
+/mad/themes/pmahomme/img/b_move.png
+1 2 0 762 0 0
+/assets/font-awesome/fonts/fontawesome-webfont.woff2
+0 329 7308830322956658733 25308480 0 0
+/assets/dist/img/mini_zs_logo.png
+1 324 7957127667461485412 5499721 0 0
+/admin/services/edit_service
+0 7 7307199446329356142 243407 0 0
+/assets/dist/img/pdf.png
+1 168 32766745625452901 195724 0 0
+/mad/js/vendor/codemirror/addon/hint/sql-hint.js
+0 3 23662 18296 0 0
+/mad/import.php
+0 1 3328213116694784365 1835 0 0
+/mad/js/tbl_operations.js
+0 1 4049018639494414336 14214 0 0
+/mad/themes/pmahomme/img/window-new.png
+1 3 8299629657291829559 936 0 0
+/mad/themes/pmahomme/img/b_tblimport.png
+1 3 7939402414740090473 1112 0 0
+/assets/dist/img/ico/favicon.png
+1 241 0 2898266 0 0
+/mad/themes/pmahomme/img/s_success.png
+1 3 0 930 0 0
+/admin/customer/add_customer_services
+0 54 0 2558945 1 1
+/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2
+0 4 0 72112 0 0
+/mad/js/functions.js
+0 3 0 347334 0 0
+/assets/dist/img/xls.png
+1 168 0 266198 0 0
+/mad/js/vendor/jquery/jquery.validate.js
+0 3 0 97392 0 0
+/mad/themes/pmahomme/img/b_import.png
+1 3 0 1112 0 0
+/assets/dist/css/stylecrm.css
+0 352 0 38666862 0 0
+/mad/js/ajax.js
+0 3 0 62492 0 0
+/mad/tbl_row_action.php
+0 2 0 4444 0 0
+/Registration
+0 6 0 34999 0 0
+/admin/Services
+0 112 0 9184877 1 3
+/mad/themes/pmahomme/img/s_lang.png
+1 3 0 1318 0 0
+/mad/js/codemirror/addon/lint/sql-lint.js
+0 3 0 2096 0 0
+/admin/Services/showServicesId
+0 70 0 49020 2 1
+/mad/js/vendor/jquery/jquery.event.drag-2.2.js
+0 3 0 25652 0 0
+/mad/js/vendor/sprintf.js
+0 3 0 14774 0 0
+/mad/themes/pmahomme/img/s_error.png
+1 3 0 1228 0 0
+/mad/themes/pmahomme/img/col_pointer.png
+1 3 0 204 0 0
+/assets/plugins/lobipanel/lobipanel.min.css
+0 348 0 4088701 0 0
+/backup17feb.zip
+0 1 0 1069354161 0 0
+/mad/js/vendor/jquery/jquery-migrate.js
+0 3 0 35626 0 0
+/mad/themes/pmahomme/img/s_asc.png
+1 3 0 292 0 0
+/assets/bootstrap/js/bootstrap.min.js
+0 348 0 12854615 0 0
+/mad/themes/pmahomme/img/b_drop.png
+1 3 0 1274 0 0
+/mad/themes/pmahomme/img/s_rights.png
+1 3 0 922 0 0
+/admin/Customer/customerService/11
+0 106 0 6550367 0 0
+/login
+0 4 0 19176 0 0
+/mad/themes/pmahomme/img/s_asci.png
+1 3 0 296 0 0
+/mad/themes/pmahomme/img/s_desc.png
+1 3 0 292 0 0
+/mad/themes/pmahomme/img/bd_browse.png
+1 1 0 271 0 0
+/mad/themes/pmahomme/img/b_no_favorite.png
+1 3 0 754 0 0
+/mad/navigation.php
+0 41 0 79507 0 0
+/mad/themes/pmahomme/img/b_sqlhelp.png
+1 3 0 1024 0 0
+/admin/customer/running_task
+0 52 0 4333818 0 0
+/mad/themes/pmahomme/img/left_nav_bg.png
+1 3 0 292 0 0
+/mad/phpmyadmin.css.php
+0 26 0 435960 0 0
+/mad/db_structure.php
+0 5 0 26110 0 0
+/admin/Customer/
+0 4 0 302175 0 0
+/assets/plugins/slimScroll/jquery.slimscroll.min.js
+0 327 0 1552086 0 0
+/admin/customer/currentMonthData
+0 5 0 389561 0 0
+/mad/js/vendor/codemirror/addon/hint/show-hint.css
+0 3 0 1246 0 0
+/assets/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.woff
+0 332 0 19382036 0 0
+/mad/themes/pmahomme/img/console.png
+1 3 0 584 0 0
+/mad/js/console.js
+0 3 0 114556 0 0
+/assets/plugins/jQuery/jquery-1.12.4.min.js
+0 352 0 34104213 0 0
+/assets/plugins/table-export/html2canvas.js
+0 328 0 30620280 0 0
+/admin/customer/unpaid_service
+0 6 0 325886 0 0
+/mad/themes/pmahomme/img/s_notice.png
+1 3 0 1134 0 0
+/mad/js/vendor/codemirror/addon/runmode/runmode.js
+0 3 0 4998 0 0
+/mad/js/vendor/codemirror/lib/codemirror.css
+0 3 0 17084 0 0
+/admin/services/delete_service
+0 3 0 609 0 0
+/mad/themes/pmahomme/img/b_tblops.png
+1 3 0 1074 0 0
+/mad/themes/pmahomme/img/b_more.png
+1 3 0 222 0 0
+/assets/plugins/table-export/base64.js
+0 328 0 970863 0 0
+/assets/plugins/table-export/jquery.base64.js
+0 328 0 1853436 0 0
+/assets/plugins/jquery-ui-1.12.1/jquery-ui.min.css
+0 348 0 10669209 0 0
+/admin/customer/fetchSubDetails
+0 68 0 3726968 0 0
+/mad/js/config.js
+0 3 0 53858 0 0
+/mad/db_sql_autocomplete.php
+0 1 0 2006 0 0
+/assets/dist/img/csv.png
+1 168 0 199899 0 0
+/assets/plugins/counterup/jquery.counterup.min.js
+0 326 0 346775 0 0
+/mad/themes/pmahomme/img/b_chart.png
+1 3 0 898 0 0
+/mad/themes/pmahomme/img/b_insrow.png
+1 3 0 314 0 0
+/assets/plugins/fastclick/fastclick.min.js
+0 327 0 2860976 0 0
+/assets/plugins/jquery-ui-1.12.1/images/ui-icons_444444_256x240.png
+1 1 0 6992 0 0
+/assets/plugins/table-export/sprintf.js
+0 328 0 2084625 0 0
+/
+0 26 0 124644 13 0
+/admin/Customer/addNewCustomer
+0 2 0 99652 0 0
+/mad/themes/pmahomme/img/b_docs.png
+1 3 0 1410 0 0
+/mad/themes/pmahomme/img/s_status.png
+1 3 0 1200 0 0
+/mad/themes/pmahomme/img/b_events.png
+1 3 0 1406 0 0
+/assets/dist/img/txt.png
+1 168 0 159986 0 0
+/mad/favicon.ico
+0 2 0 44972 0 0
+/assets/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.ttf
+0 7 0 191233 0 0
+/admin/Customer/customerService/12
+0 10 0 660944 0 0
+/mad/themes/pmahomme/img/b_select.png
+1 3 0 1186 0 0
+/mad/js/multi_column_sort.js
+0 3 0 6568 0 0
+/mad/themes/pmahomme/img/s_tbl.png
+1 3 0 1290 0 0
+/mad/js/tbl_change.js
+0 3 0 58100 0 0
+/mad/themes/pmahomme/img/s_host.png
+1 3 0 1182 0 0
+/mad/themes/pmahomme/img/s_cog.png
+1 3 0 884 0 0
+/mad/themes/pmahomme/img/s_passwd.png
+1 3 0 662 0 0
+/mad/themes/pmahomme/img/s_top.png
+1 3 0 440 0 0
+/mad/tbl_operations.php
+0 4 0 25339 0 0
+/admin/customer
+0 207 0 21622629 4 1
+/mad/themes/pmahomme/img/bd_select.png
+1 1 0 325 0 0
+/assets/plugins/pace/flash.css
+0 348 0 763747 0 0
+/assets/plugins/pace/pace.min.js
+0 329 0 4129192 0 0
+/mad/themes/pmahomme/img/b_table_add.png
+1 3 0 1142 0 0
+/admin/Customer/customerService
+0 18 0 1373 0 0
+/assets/plugins/chartJs/Chart.min.js
+0 327 0 48470658 0 0
+/mad/themes/pmahomme/jquery/jquery-ui.css
+0 3 0 73132 0 0
+/mad/js/vendor/codemirror/addon/hint/show-hint.js
+0 3 0 31818 0 0
+/assets/bootstrap/css/bootstrap.min.css
+0 352 0 42541200 0 0
+/assets/plugins/datatables/dataTables.min.js
+0 327 0 387877082 0 0
+/mad/themes/pmahomme/img/s_lock.png
+1 1 0 667 0 0
+/admin
+0 25 0 122269 0 0
+/mad/themes/pmahomme/img/s_reload.png
+1 3 0 1054 0 0
+/mad/js/vendor/codemirror/addon/lint/lint.js
+0 3 0 17218 0 0
+/admin/customer/archive_services
+0 8 0 463682 0 0
+/mad/js/common.js
+0 3 0 38336 0 0
+/mad/themes/pmahomme/img/b_empty.png
+1 3 0 1042 0 0
+/mad/themes/pmahomme/img/s_fulltext.png
+1 3 0 352 0 0
+/mad/js/navigation.js
+0 3 0 120152 0 0
+/assets/dist/img/preload.gif
+1 329 0 1959144 0 0
+/mad/themes/pmahomme/img/b_tblanalyse.png
+1 3 0 304 0 0
+/mad/js/vendor/jquery/jquery.ba-hashchange-1.3.js
+0 3 0 33044 0 0
+/mad/themes/pmahomme/img/b_props.png
+1 3 0 1146 0 0
+/admin/logout
+0 2 0 9782 0 0
+/mad/themes/pmahomme/img/logo_left.png
+1 3 0 5426 0 0
+/mad/js/messages.php
+0 9 0 26466 0 0
+/mad/themes/pmahomme/img/b_primary.png
+1 2 0 1072 0 0
+/admin/Welcome
+0 32 0 3260185 0 0
+/admin/Services/dee
+0 132 0 32313 0 4
+/mad/themes/pmahomme/img/bd_empty.png
+1 1 0 327 0 0
+/assets/dist/js/dashboard.js
+0 326 0 790075 0 0
+/mad/js/sql.js
+0 3 0 76856 0 0
+/mad/themes/pmahomme/img/b_ftext.png
+1 2 0 1100 0 0
+/assets/font-awesome/fonts/fontawesome-webfont.woff
+0 7 0 349412 0 0
+/assets/plugins/monthly/monthly.js
+0 326 0 8080150 0 0
+/assets/themify-icons/fonts/themify.woff
+0 328 0 18347316 0 0
+/mad/js/vendor/codemirror/addon/lint/lint.css
+0 3 0 5998 0 0
+/mad/lint.php
+0 16 0 856 0 0
+# End Of Table - urls
+# -sites- (monthly)
+abts-north-dynamic-036.129.68.182.airtelbroadband.in
+0 416 393 24107572 2 1550574120
+/admin/Welcome
+103.29.223.93
+0 1 1 3086009069 0 0
+-
+abts-north-dynamic-235.207.64.182.airtelbroadband.in
+0 1 1 4891 1 1550298738
+/admin/login
+abts-north-dynamic-077.141.68.182.airtelbroadband.in
+0 8939 8537 521834428 8 1549628083
+/mad/sql.php
+ec2-3-87-31-229.compute-1.amazonaws.com
+0 2 2 4155363230 0 0
+-
+209.17.96.34.cloudsystemnetworks.com
+0 1 1 4794 1 1550516112
+/
+209.17.96.218.cloudsystemnetworks.com
+0 1 1 4794 1 1550810519
+/
+abts-north-dynamic-031.131.68.182.airtelbroadband.in
+0 19 18 978230 2 1550819707
+/admin/Services/dee
+14.141.23.102.static-delhi.vsnl.net.in
+0 49 47 2736103 1 1550899144
+/admin/logout
+abts-north-dynamic-200.143.68.182.airtelbroadband.in
+0 6410 5965 370596804 7 1550296120
+/admin/login
+14.141.23.250.static-delhi.vsnl.net.in
+0 10 9 505407 1 1550901782
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+14.141.23.102.static-delhi.vsnl.net.in
+0 49 47 2736103 1 1550899144
+/admin/logout
+14.141.23.250.static-delhi.vsnl.net.in
+0 10 9 505407 1 1550901782
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://crm.zopsoft.com/Registration
+0 8
+http://crm.zopsoft.com/assets/dist/css/stylecrm.css
+0 329
+http://crm.zopsoft.com/admin/customer/newCustomerValidation
+0 205
+http://crm.zopsoft.com/Registration/register_valid
+0 8
+http://crm.zopsoft.com/admin/Welcome
+0 386
+http://crm.zopsoft.com/customer/add_customer
+0 3
+http://crm.zopsoft.com/admin/Login/dash_open
+0 5
+http://crm.zopsoft.com/admin/Services
+0 1967
+http://crm.zopsoft.com/admin/customer/addNewCustomer
+0 965
+http://crm.zopsoft.com/admin/Customer/customerService/11
+0 2018
+http://crm.zopsoft.com/admin/services/edit_service
+0 8
+http://crm.zopsoft.com/assets/pe-icon-7-stroke/css/pe-icon-7-stroke.css
+0 339
+http://crm.zopsoft.com/admin/customer/add_customer_services
+0 582
+http://crm.zopsoft.com/
+0 61
+http://crm.zopsoft.com/assets/themify-icons/themify-icons.css
+0 328
+http://crm.zopsoft.com/admin/services
+0 1
+http://crm.zopsoft.com/admin/customer/group.html
+0 1
+http://crm.zopsoft.com/admin/Services/serviceValidation
+0 319
+http://crm.zopsoft.com/login
+0 3
+- (Direct Request)
+0 1232
+http://crm.zopsoft.com/admin/customer/userValidation
+0 7
+http://crm.zopsoft.com/admin/services/delete_service
+0 3
+http://crm.zopsoft.com/admin/login
+0 16
+http://crm.zopsoft.com/admin/Customer/customerService/
+0 1
+http://crm.zopsoft.com/admin/Customer/customerService/12
+0 51
+http://crm.zopsoft.com/admin/Customer/customerService/13
+0 150
+http://crm.zopsoft.com/admin/Customer/customerService
+0 18
+http://crm.zopsoft.com/customer/customerService
+0 6
+http://crm.zopsoft.com/assets/font-awesome/css/font-awesome.min.css
+0 343
+http://crm.zopsoft.com/admin/customer/archive_services
+0 12
+http://crm.zopsoft.com/admin/Login
+0 14
+http://crm.zopsoft.com/admin/index.php
+0 1
+http://crm.zopsoft.com/admin/customer/unpaid_service
+0 6
+http://crm.zopsoft.com/admin/customer/currentMonthData
+0 3
+http://crm.zopsoft.com/Customer/addNewCustomer
+0 2
+http://crm.zopsoft.com/Customer/customerService
+0 1
+http://crm.zopsoft.com/Welcome
+0 1
+http://crm.zopsoft.com/admin/customer
+0 4135
+http://crm.zopsoft.com/admin/customer/fetchSubDetails
+0 1588
+http://crm.zopsoft.com/assets/bootstrap/css/bootstrap.min.css
+0 4
+http://crm.zopsoft.com/admin/Customer/
+0 165
+http://crm.zopsoft.com/admin/customer/running_task
+0 259
+http://crm.zopsoft.com/admin
+0 27
+http://crm.zopsoft.com/admin/Customer/addNewCustomer
+0 73
+http://crm.zopsoft.com/mad/phpmyadmin.css.php
+0 194
+http://crm.zopsoft.com/assets/plugins/jquery-ui-1.12.1/jquery-ui.min.css
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36
+0 449
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+0 15260
+Webmin
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Sa
+0 87
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36
+0 49
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
